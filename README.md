@@ -4,6 +4,9 @@ Getting started with the project:
 3. npm install
 3. npm start 
 
+to see the whole tutorial click here! 
+
+https://reactjs.org/tutorial/tutorial.html
 
 
 
