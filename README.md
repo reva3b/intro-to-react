@@ -1,3 +1,13 @@
+Getting started with the project: 
+1. Make sure you have node.js installed (link here: https://nodejs.org/en/ )
+2. clone the repo 
+3. npm install
+3. npm start 
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
