@@ -1,6 +1,6 @@
 Getting started with the project: 
 1. Make sure you have node.js installed (link here: https://nodejs.org/en/ )
-2. clone the repo 
+2. fork the repo 
 3. npm install
 3. npm start 
 
